@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589788413 source:c:\users\guillermo s. ovalle\desktop\c++\laratp1\main.cpp
+	<clocale>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cctype>
+	<ctime>
+	"rlutil.h"
+	"Platos.h"
+
+1586206735 c:\users\guillermo s. ovalle\desktop\c++\laratp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1589792595 c:\users\guillermo s. ovalle\desktop\c++\laratp1\platos.h
+
